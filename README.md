@@ -148,6 +148,14 @@ The analysis reveals important insights about:
 - Shipping preferences and their business impact
 - Subscription model effectiveness
 
+## 📊 Interactive Report View
+
+<p align="center">
+  <img src="images/Dashboard.png" alt="Dashborad" width="600"/>
+  <br>
+  <em>Interactive Dashboard View</em>
+</p>
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes:
