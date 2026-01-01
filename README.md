@@ -2,6 +2,14 @@
 
 A comprehensive data analysis project that explores customer shopping behavior patterns using Python and SQL. This project analyzes customer demographics, purchasing patterns, product preferences, and subscription behaviors to derive actionable business insights.
 
+## 📊 Interactive Report View
+
+<p align="center">
+  <img src="images/Dashboard.png" alt="Dashborad" width="600"/>
+  <br>
+  <em>Interactive Dashboard View</em>
+</p>
+
 ## 📊 Project Overview
 
 This project performs exploratory data analysis (EDA) on customer shopping behavior data to understand:
@@ -148,13 +156,7 @@ The analysis reveals important insights about:
 - Shipping preferences and their business impact
 - Subscription model effectiveness
 
-## 📊 Interactive Report View
 
-<p align="center">
-  <img src="images/Dashboard.png" alt="Dashborad" width="600"/>
-  <br>
-  <em>Interactive Dashboard View</em>
-</p>
 
 ## 🤝 Contributing
 
