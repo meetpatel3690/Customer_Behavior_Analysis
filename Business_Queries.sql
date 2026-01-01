@@ -102,6 +102,8 @@ where item_rank <= 3;
 
 --Q9. Are customers who are repeat buyers (more than 5 previous purchases) also likely to subscribe?
 
+select * from customer; 
+
 select subscription_status,count(customer_id) as repeat_buyers
 from customer
 where previous_purchases > 5
